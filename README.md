@@ -6,7 +6,9 @@ I am not responsible for your bullshit
 TUTO : 
 
 select your launch :
- 1 = Discord
+
+
+  1 = Discord
  
  2 = DiscordCanary 
  
